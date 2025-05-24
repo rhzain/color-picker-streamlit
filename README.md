@@ -132,7 +132,7 @@ pip install opencv-python
   ```
 
 **Muhammad Raihan Rizky Zain**
-- NIM: 140810230049
+- NPM: 140810230049
 - Program Studi: Teknik Informatika
 - Mata Kuliah: Artificial Intelligence (Praktikum)
 - Universitas: Universitas Padjadjaran
