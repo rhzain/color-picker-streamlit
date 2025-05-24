@@ -131,25 +131,11 @@ pip install opencv-python
   streamlit run app.py --server.port 8502
   ```
 
-## 📈 Pengembangan Lebih Lanjut
-
-Beberapa ide untuk pengembangan:
-
-- [ ] Export palette ke berbagai format (CSS, SCSS, JSON)
-- [ ] Support untuk lebih banyak format gambar
-- [ ] Algoritma clustering alternatif (DBSCAN, Hierarchical)
-- [ ] Batch processing untuk multiple images
-- [ ] API endpoint untuk integrasi eksternal
-- [ ] Dark mode toggle
-- [ ] Histogram warna
-
-## 👨‍💻 Pengembang
-
 **Muhammad Raihan Rizky Zain**
 - NIM: 140810230049
 - Program Studi: Teknik Informatika
-- Mata Kuliah: Artificial Intelligence
-- Universitas: [Nama Universitas]
+- Mata Kuliah: Artificial Intelligence (Praktikum)
+- Universitas: Universitas Padjadjaran
 
 ## 📄 Lisensi
 
