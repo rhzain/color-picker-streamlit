@@ -53,9 +53,7 @@ Aplikasi ini memungkinkan pengguna untuk mengunggah gambar dan secara otomatis m
 
 ```
 ├── app.py                 # File utama aplikasi Streamlit
-├── requirements.txt       # Dependencies Python
-├── README.md             # Dokumentasi
-└── sample_images/        # Folder contoh gambar (opsional)
+└── README.md             # Dokumentasi
 ```
 
 ## 🚀 Cara Penggunaan
