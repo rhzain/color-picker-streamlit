@@ -1,3 +1,8 @@
+"""
+Muhammad Raihan Rizky Zain | 140810230049
+Praktikum Artificial Intelligence - Color Picker Using K-Means Clustering
+"""
+
 import streamlit as st
 import numpy as np
 import cv2
